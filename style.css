@@ -1,0 +1,10 @@
+.header {
+    overflow: hidden;
+    background-color: #efe5dc;
+    padding:20px 10px;
+    border-radius: 15px;
+}
+
+.header img {
+    height: 50px;
+}
